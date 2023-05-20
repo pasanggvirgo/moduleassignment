@@ -1,0 +1,136 @@
+body{
+  background-image: url("room1.JPG");
+
+}
+.form{
+	
+	margin:12px;
+	text-align: center;
+   margin-bottom: 16px;
+
+}
+ form{
+     font-family: Arial, Helvetica, sans-serif;
+ 	background-color: skyblue;
+   margin: auto;
+        width: 260px;
+    border: 2px solid;
+    border-radius: 47px;
+    margin-top: 160px;
+    height: 295px;
+        margin-bottom: 200px;
+
+}
+ 
+ p{
+ 	text-align: center;
+
+ }
+ .registration{
+ 
+ 	text-align: center;
+ }
+ .button {
+ 	color: yellow;
+ }
+
+ #Username {
+ 	border-radius: 6px;
+ 	width: 205px;
+height: 20px;
+}
+
+ #password {	
+   border-radius: 6px;
+   height: 20px;
+   margin-bottom: 40px;
+
+ }
+ 	
+
+ 
+ button{
+ 	width: 77px;
+    height: 30px;
+    text-align: center;
+    border-color: 2px solid black;
+    cursor: pointer;
+    padding: 0px;
+    margin-left: 86px;
+    border-radius: 8px;
+    background-color: indianred;
+    color: white;
+    transition-duration: 0.9sec;
+
+ }
+ .button1:hover{
+   background-color:whitesmoke ;
+   color: black;
+}
+a:hover{
+   background-color:whitesmoke ;
+   color: black;
+}
+
+
+ nav.heading{
+   position: sticky;
+    top: 0px;
+     
+   font-family: "Times New Roman", Times, serif;
+background-color: skyblue;
+display: flex;
+
+}
+h2.top{
+   text-align: center;
+
+   margin-bottom: 19px;
+    margin-top: 10px;
+}
+
+ footer{
+   background-color:skyblue;
+   height: 35px;
+    text-align: center;
+    font-size: 19px;
+    padding-right: 20px;
+    margin-top: 40px;
+    padding-top:7px;
+    margin-bottom: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+
+
+ }
+   a{
+   text-decoration: none;
+    padding: 6px;
+    text-align: center;
+    border: 2px solid black;
+    cursor: pointer;
+    height: 31px;
+    margin-left: 70px;
+    border-radius: 8px;
+    
+    background-color: blue;
+    color: white;
+}
+
+#img{
+  width: 78px;
+    height: 70px;
+    border-radius: 56px;
+    border: 2px solid black;
+    text-align: left;
+    margin: 10px;
+    
+}
+h2.text{
+   text-align: center;
+   margin-top: 0px;
+   background-color: skyblue;
+    margin:auto;
+    padding-top: 0px;
+    font-size: 34px;
+}

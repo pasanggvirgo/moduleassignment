@@ -1,0 +1,98 @@
+nav{
+	margin: 0px ;
+	padding: 0px;
+	background-color: skyblue;
+	height: 67px;
+	position: sticky;
+	top: 0px;
+ 
+}
+ul{
+	margin: 0px;
+	padding: 0px;
+
+}
+.left{
+list-style: none;
+margin: 10px;
+padding-left: 10px;
+
+
+}
+div.container{
+display: flex;
+padding-top: 13px;
+    padding-left: 6px;
+}
+
+
+.right{
+	
+	list-style: none;
+margin: 4px 12px;
+
+}
+form.rightbar{
+	margin-left: 320px;
+}
+button{
+	border: 2px solid black;
+	border-radius: 6px;
+	background-color: gray;
+	cursor: pointer;
+	color: whitesmoke;
+	height: 30px;
+}
+button:hover{
+color: black;
+background-color:lightgray;
+
+}
+#redsearch{
+	background-color: indianred;
+	height: 26px;
+}
+#redsearch:hover{
+	background-color: white;
+}
+#search{
+	width:200px;
+border: 2px solid black;
+border-radius: 8px;
+height: 18px;
+margin-right: -9px;
+}
+#upload{
+	margin-right: 50px;
+}
+a{
+	text-decoration: none;
+	color: whitesmoke;
+
+	
+	
+	
+}
+#login{
+	background-color: blue;
+	height: 26px;
+
+
+
+
+}
+#login:hover{
+	
+	background-color:dimgray;
+}
+#navimg{
+  width: 44px;
+    height: 38px;
+    border-radius: 56px;
+    border: 1px solid black;
+    text-align: left;
+    margin: -10px;
+
+    
+}
+
